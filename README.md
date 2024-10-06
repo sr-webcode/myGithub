@@ -12,6 +12,8 @@ Please do the following to get started:
 - Change `VITE_GITHUB_API_TOKEN` on the `.env` file to your own github token. 
 - Guide for setting up personal access token: [See Managing Github Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
+See live demo here: https://my-personal-github.netlify.app/
+
 ## Screenshots
 ### Searching users
 ![alt text](image.png)
@@ -24,6 +26,7 @@ Please do the following to get started:
 
 ### Repo issues on github
 ![alt text](image-3.png)
+
 
 
 
